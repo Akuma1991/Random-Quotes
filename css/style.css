@@ -1,0 +1,14 @@
+.container{
+    height: 50vh !important;
+    padding: 100px 0px 420px;
+    box-shadow: 10px 10px 40px gray;
+}
+.container h1{
+    font-size: 4rem;
+}
+.container p{
+    font-size: 2rem;
+}
+.container .demo{
+    border-radius: 40px;
+}
